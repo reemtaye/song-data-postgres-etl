@@ -20,7 +20,7 @@ The request is to create a star schema data model in postgres and load song data
 
 ## How to run the ETL
 db credentials must be passed as a system argument when you run the etl:   
-				'python etl.py <uid> <pw>''
+				'python etl.py <uid> <pw>'
 ## 
 
 ##
