@@ -19,7 +19,7 @@ The request is to create a star schema data model in postgres and load song data
 ## Creating Tables
 
 ## How to run the ETL
-1. Create the tables by running: 
+1. Create the tables by running:   
 	python create_tables.py
 2. db credentials must be passed as a system argument when you  
 	'python etl.py <uid> <pw>'
